@@ -8,6 +8,7 @@ copyright = "Hassan Ismail"
 
 [author]
  name = "Hassan Ismail"
+ url = "www.hassanismail.ca"
 
 [params]
   dateform        = "Jan 2, 2006"
