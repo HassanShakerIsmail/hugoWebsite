@@ -1,6 +1,4 @@
-[submodule "themes/hermit"]
-    path = themes/hermit
-    url = https://github.com/TacitusKilgore/hugoWebsite
+
 [submodule "themes/themes/hermit"]
 	path = themes/themes/hermit
 	url = https://github.com/Track3/hermit.git
