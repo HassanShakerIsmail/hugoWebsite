@@ -15,6 +15,8 @@ copyright = "Hassan Ismail"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  themeColor = "#FFC3A0"
+  homeSubtitle = "Welcome to my personal website!"
 
  
  [[params.social]]
