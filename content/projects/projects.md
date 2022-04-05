@@ -1,5 +1,5 @@
 ---
-title: "My personal website"
+title: "Building my personal website"
 date: 2022-04-03T23:51:55-04:00
 draft: false
 ---
@@ -14,4 +14,8 @@ As you might've guessed from the watermarking at the bottom of the pages, this (
 
 In terms of the interesting backend stuff, this website is hosted on Netlify, based on my github respository that you can find here: https://github.com/TacitusKilgore/hugoWebsite. In short, everytime my github repository is updated, say using VSCode and git, my website is updated, very quickly. If you're lucky enough, you might be browsing in the middle of an update, to which you'd note the website briefly refresh.
 
-## First step
+## First step (installation)
+Now, first thing you'll need to do this, is download Hugo, git, and choclately if you're on windows. If you're a Mac or Linux user, sorry - but this tutorial won't be for you. Anyway, you can find and download the 3 at https://gohugo.io/, https://git-scm.com/, and https://chocolatey.org/. Also, make sure you're on an administrator when you run powershell, or your terminal of choice!
+
+## Second step (setup)
+(more to come!)
