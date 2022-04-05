@@ -18,4 +18,4 @@ But even with all the doom and gloom, I still do have hope. One thing life has t
 But anyway,
 so - there's my first post in my slice of the internet. Reading back on it, I wonder if perhaps this was too depressing, but I realize going back and censoring myself would defeat the purpose of what this was supposed to be. An honest journal reflective of what I really think, not masked like so many of us are these days.
 
-*italic All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self evident.* - *bold Arthur Schopenhaur*
+*italic* All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self evident. - *bold* Arthur Schopenhaur
