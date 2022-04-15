@@ -35,12 +35,19 @@ Anywho, assuming you've created your new sample_post.md, you'll notice that open
 
 Otherwise, start writing your desired stuff (or if you don't know what the heck to write, I'd suggest reading up on how to use markdown - don't worry it's very easy!). 
 
-Before I move on to the final stage, let's go ahead and cover how to upload images to your website. Now, in your same markdown file (or html file) corresponding to the the post you've made, ensure first and foremost that your image file is actually within your website's directory, and simply just type (assuming you're using markdown) '![sample_alt_text](image_path)'. 
+Before I move on to the final stage, let's go ahead and cover how to upload images to your website. Now, in your same markdown file (or html file) corresponding to the the post you've made, ensure first and foremost that your image file is actually within your website's directory, and simply use the html command for sourcing images. For your convience, I've also included the markdown command aswell (though, wasn't able to use the non htlm version to upload images.)
+
+```
+// note that anything behind a // is a comment, if you're not familiar with C++/C style commenting.
+![this is your image's alt text](and_its_path) // markdown
+< figure src="link_to_your_image" alt="images_alt_text" caption="your_caption" > // html
+```
 
 NOTE: MAKE SURE THAT YOUR BASE URL IN YOUR CONFIG FILE IS THE SAME AS YOUR WEBSITE'S URL, OTHERWISE IMAGES WILL ONLY APPEAR ON YOUR LOCAL HOSTED SERVER, AND NOT YOUR LIVE WEBSITE! 
 
 By the way, before moving on - please please please ensure you've properly configured your config file. 9/10 times, if something is not showing up on your website it's something to do with your config file. For example, you'll notice the URL you're on should be hassanismail.ca/projects/mywebsite. I've attached an image below of the menu part of my config.toml file, so you get an idea of what I mean:
 ![this is supposed to be an image](../../static/myconfigfile.jpg)
+{{< figure src="https://github.com/TacitusKilgore/hugoWebsite/blob/master/static/myconfigfile.jpg?raw=true" alt="a piece of my config" caption="the 'menu' part of my config i was talking about." >}}
 
     
 
