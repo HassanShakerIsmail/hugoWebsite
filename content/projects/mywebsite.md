@@ -18,7 +18,7 @@ In terms of the interesting backend stuff, this website is hosted on Netlify, ba
 Now, first thing you'll need to do this, is download Hugo, git, and choclately if you're on windows. If you're a Mac or Linux user, sorry - but this tutorial won't be for you. Anyway, you can find and download the 3 at https://gohugo.io/, https://git-scm.com/, and https://chocolatey.org/. Also, make sure you're on an administrator when you run powershell, or your terminal of choice!
 
 ## Second step (setup)
-Now that you've got git, hugo, and chocolatey setup, we now will actually set up the website. Using powershell or whatever terminal of choice you have, simply navigate to your directory of choice and type "hugo new site (your site name here) -f toml" to create a websites frame. This will be where all your files, config, etc will be placed. Note, you may opt to have a yml config file, but for this tutorial (and my website) I've opted to use toml. With that said and done, configuare your config.toml file properly. If you don't know how to do this, I'd recommend watching https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=1032s (an excellent tutorial I've partially used), OR simply just copy paste a config file from a theme's github respository of your choice (this is typically okay, as most themes follow an MIT free use license.), of course for maximal freedom though, it's best to write your own config.
+Now that you've got git, hugo, and chocolatey setup, we now will actually set up the website. Using powershell or whatever terminal of choice you have, simply navigate to your directory of choice and type "hugo new site (your site name here) -f toml" to create a websites frame. This will be where all your files, config, etc will be placed. Note, you may opt to have a yml config file, but for this tutorial (and my website) I've opted to use toml. With that said and done, configuare your config.toml file properly. If you don't know how to do this, I'd recommend you simply just copy paste a config file from a theme's github respository of your choice (this is typically okay, as most themes follow an MIT free use license; but please do check that the files owner is okay with this.), of course for maximal freedom though, it's best to write your own config.
 
 Anyway, it's time to pick a theme for your website. You can find a wide assortment of themes from https://themes.gohugo.io/ although my website as you might have seen at the bottom of the page, is running the https://themes.gohugo.io/themes/hermit/ theme.
 
@@ -52,6 +52,24 @@ By the way, before moving on - please please please ensure you've properly confi
     
 
 ## Fourth Step (Setting your website up to go live!)
+Finally! We're at the closing step. Now, I'm going to make a big assumption here and assume you're on VSCode. If you are, great! If not - you might want to hop on an IDE that allows you to pull and push onto a github respoistory easily, as otherwise things become a pain.
 
+First and foremost, create a new git file in your Website's directory by running the `git init` which initializes a new repository for your website. Now, go ahead and create a git config file via powershell by running `New .gitmodes`, Now inside your git config, go ahead and and copy and paste the following code, changing it to match with your following themes, and directories.
+
+```
+[submodule "themes/the_themes_name"]
+	path = themes/the_themes_name
+	url = https://github.com/Track3/hermit.git // this is just an example, but change this to the appropriate git repository url for your theme.
+
+```
+
+If things have been done correctly, you should be able to commit your changes; after VSCode requests you to link your github and create a repository, in which case congrats! the big steps are done! you're 99% done making your own website!
+
+Finally, now head over to https://www.netlify.com/ sign up, and simply link your repository to your netlify account - and boom, you're done! Congratulations on your cool new sick website!
+
+By the way, netlify allows you to link domains (if you wish to buy your own, such as I've elected); and allows provides encryption so don't worry about having to get verified. At this step, make sure you've updated the baseurl in your config file to match your websites links.
+
+---
+*to provide feedback on my guide, please feel free to send me an email.*
 
 
