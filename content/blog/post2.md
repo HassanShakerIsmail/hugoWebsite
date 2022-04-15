@@ -12,7 +12,7 @@ A few years ago I had played the open-world survival game Subnautica, a fantasti
 
 Learning about life has been a bittersweet journey. When I learn about the frankly leviathan and biblical like creatures that roamed our planet like basilosaurus, I'm reminded that life is an indescriable unique thing, that is impossible to properly get a grasp on. One thing of fascination to me was the Great dying, an extinction event about 250 million years ago in which 95% of life on earth was wiped out.
 
-Can you imagine that? All of earth's oceans, forests, jungles, etc empty. Imagine just walking through the landscape and seeing nothing but the occasional scavenging rodent, and odd bird here and there. The imagine brings a romantic, yet tragic feeling with it.
+Can you imagine that? All of earth's oceans, forests, jungles, etc empty. Imagine just walking through the landscape and seeing nothing but the occasional scavenging rodent, and odd bird here and there. The image brings a romantic, yet tragic feeling with it.
 But more so what blows me away is that where we are now, all of the life on earth now is but 5% of what could've been.
 
 A great sadness fills me knowing that fact, that this - what is now, is only a small percentile of what might've been possible. I can only imagine what the world might've looked like, had life not been beaten the way it was. And this is where that bitter in the bittersweet feeling comes in.
