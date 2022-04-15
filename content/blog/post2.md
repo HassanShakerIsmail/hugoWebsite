@@ -6,7 +6,7 @@ draft: false
 
 I've always been a fan of animals since childhood. In grade school, I often would make posters about different animals and present them to the class; probably bothering my teachers but still worth the fun I had making them.
 
-That being said, I've recently been learning about earth's history, and more specifically paleontology. Naturally being a huge orthinology fan means that I obviously love dinosaurs - and having recently learned about crazy species about such as the Basilosaurus (https://en.wikipedia.org/wiki/Basilosaurus), I realize now that great beasts once roamed this earth, far more amazing than anything my imagination could ever have come up with.
+That being said, I've recently been learning about earth's history, and more specifically paleontology. Naturally being a huge orthinology fan means that I obviously love dinosaurs - and having recently learned about crazy species about such as the Basilosaurus ( https://en.wikipedia.org/wiki/Basilosaurus ), I realize now that great beasts once roamed this earth, far more amazing than anything my imagination could ever have come up with.
 
 A few years ago I had played the open-world survival game Subnautica, a fantastical mastercrafted game about survival on an ocean planet roughly based on planet Gliese1214b, and was frankly so immersed by vastness of the ocean and creatures in it, that I always was disappointed that earth at least, was never populated by whimsical creatures like dragons, leviathans, etc. Except, I was horribly wrong.
 
