@@ -40,7 +40,7 @@ Before I move on to the final stage, let's go ahead and cover how to upload imag
 NOTE: MAKE SURE THAT YOUR BASE URL IN YOUR CONFIG FILE IS THE SAME AS YOUR WEBSITE'S URL, OTHERWISE IMAGES WILL ONLY APPEAR ON YOUR LOCAL HOSTED SERVER, AND NOT YOUR LIVE WEBSITE! 
 
 By the way, before moving on - please please please ensure you've properly configured your config file. 9/10 times, if something is not showing up on your website it's something to do with your config file. For example, you'll notice the URL you're on should be hassanismail.ca/projects/mywebsite. I've attached an image below of the menu part of my config.toml file, so you get an idea of what I mean:
-![this is supposed to be an image](myconfigfile.jpg)
+![this is supposed to be an image](../../static/myconfigfile.jpg)
 
     
 
